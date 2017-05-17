@@ -86,7 +86,11 @@
             <!--<artifactId>mysql-connector-java</artifactId>-->
             <!--<version>5.1.41</version>-->
         <!--</dependency>-->
-
+        <dependency>
+            <groupId>com.quigley</groupId>
+            <artifactId>zabbixj</artifactId>
+            <version>3</version>
+        </dependency>
 
     </dependencies>
 
